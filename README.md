@@ -42,6 +42,7 @@ ________________________________________
 🚀 How to Use
 
 🧭 Mode Selection
+
 •	Editor Mode: Manage words and change settings.
 •	Player Mode: Start playing the game with AI-generated riddles.
 
@@ -53,6 +54,7 @@ ________________________________________
 5.	Quit – Exit the editor.
 
 🕹 Player Mode Flow
+
 •	Select difficulty.
 •	Receive a riddle (from cache or OpenAI).
 •	Guess letters to uncover the word.
@@ -62,6 +64,7 @@ ________________________________________
 🤖 API & Riddle Caching
 
 AI Riddle Generation
+
 •	Uses OpenAI's GPT model to create custom riddles based on selected words.
 Caching System
 •	Generated riddles are stored in a local file (riddles_cache.json).
