@@ -44,6 +44,7 @@ ________________________________________
 🧭 Mode Selection
 
 •	Editor Mode: Manage words and change settings.
+
 •	Player Mode: Start playing the game with AI-generated riddles.
 
 🛠 Editor Mode Options
