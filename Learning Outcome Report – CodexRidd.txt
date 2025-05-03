@@ -1,0 +1,24 @@
+Learning Outcome Report – CodexRiddle: AI-Integrated Python Hangman
+Project Overview:
+Developed CodexRiddle, an interactive hangman-style game integrating OpenAI’s GPT API to generate contextually relevant riddles for each target word. The project offers dual modes—Editor for word list management and difficulty adjustment, and Player for engaging gameplay with AI-driven clues.
+
+Key Learning Outcomes:
+
+API Integration:
+Gained hands-on experience integrating OpenAI's GPT API into a Python application, including prompt crafting and response handling.
+
+Data Caching and Optimization:
+Implemented a local JSON-based caching system to store and retrieve riddles efficiently, reducing redundant API calls and enhancing performance.
+
+Modular Programming:
+Built modular and reusable code with functions managing game logic, API interaction, caching, and user modes.
+
+Error Handling & Resilience:
+Developed robust retry logic to handle API rate limits and failures, ensuring a smooth user experience.
+
+User-Centered Design:
+Designed dual operational modes—Editor and Player—fostering interactive learning and configurability.
+
+Game Development Logic:
+Deepened understanding of control flow, conditional logic, user input handling, and string manipulation in Python.
+
