@@ -8,9 +8,9 @@ This is a Python-based Hangman game that combines traditional word-guessing game
 •	Editor Mode – Manage the word list and game settings (like number of tries) interactively.
 Built for both fun and flexibility, the game supports multiple difficulty levels, custom word management, and local caching of riddles to minimize API usage. It's ideal for programmers looking to combine Python fundamentals with modern AI integrations.
 ________________________________________
-📘 Detailed Breakdown
 
 🎮 Features
+
 🔹 Player Mode
 
 •	Play a game of Hangman with riddle-based hints.
