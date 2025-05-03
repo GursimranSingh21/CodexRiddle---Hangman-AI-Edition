@@ -1,4 +1,4 @@
-# CodexRiddle---Hangman-AI-Edition (Word Management & AI Riddle Integration)
+# CodexRiddle - Hangman-AI-Edition (Word Management & AI Riddle Integration)
 CodexRiddle is an AI-integrated Hangman game built with Python, a new version of the Python Hangman game project. It uses OpenAI's GPT API to generate riddles, features player and editor modes, and includes local caching for performance. A strong showcase of API integration, game logic, and modular programming
 
 🔹 General Overview
