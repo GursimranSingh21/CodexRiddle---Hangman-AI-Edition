@@ -20,7 +20,7 @@ ________________________________________
 
 🔹 Editor Mode (Word Management)
 
-•	Add new words to the word list. (Feature from the classic version.)
+•	Add new words to the word list.(Feature from the classic version.)
 •	Change or delete existing words.
 •	Set the number of tries allowed in player mode.
 ________________________________________
